@@ -3,7 +3,7 @@ body {
 }
 
 .header,.footer {
-    background: #588B91;
+    background: #66ABB3;
     padding: 20px;
     text-align: center;
 }
@@ -14,33 +14,33 @@ body {
 }
 
 .sidebar {
-    background: #D8D8D8;
+    background: #FFFFFF;
     width: 20%;
     padding: 20px;
 }
     
 .content {
-    background: #FFFFFF;
+    background: #C8FFFF;
     flex: 1;
     padding: 10px;
 }
 
 .kotak {
-    background: #B8B8B8;
+    background: #fff;
     padding: 10px;
     margin-bottom: 15px;
     text-align: center;
     border: 1px solid#888;
 }
 .sidebar a {
-    background: #bbb;
+    background: #4a90e2;
     padding: 10px;
     margin-bottom: 15px;
     text-align: center;
     border: 1px solid#888;
     display: block;
     text-decoration: none;
-    color: #34004F;
+    color: #fff;
 }
 table {
   width: 100%;
