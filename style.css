@@ -26,11 +26,12 @@ body {
 }
 
 .kotak {
-    background: #fff;
+    background: #FFFFFF;
     padding: 10px;
     margin-bottom: 15px;
     text-align: center;
     border: 1px solid#888;
+    border-radius: 10px;
 }
 .sidebar a {
     background: #4a90e2;
